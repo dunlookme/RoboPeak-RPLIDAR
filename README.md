@@ -21,4 +21,5 @@ RPILAR has 7 pins:
 ## References
 
 http://www.robopeak.com/blog/?p=278
+
 http://rplidar.robopeak.com/
